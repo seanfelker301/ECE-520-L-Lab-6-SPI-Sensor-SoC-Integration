@@ -1,0 +1,3 @@
+C:/Vitis/spi_ctrl_soc_Vitis_SF/spi_plat_4/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Vitis/spi_ctrl_soc_Vitis_SF/spi_plat_4/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Vitis/spi_ctrl_soc_Vitis_SF/spi_plat_4/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
